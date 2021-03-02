@@ -8,7 +8,7 @@ My implementation of a logistic regression model to predict winners at professio
 
 **Las Vegas Challenge: First Article and Model Overview:** The article is the first in the series.  It introduces the basics of the model and makes predictions for the Las Vegas Challenge.  ([Ultiworld - Las Vegas Challenge](https://discgolf.ultiworld.com/2021/02/24/introducing-a-model-to-predict-top-finishers-at-pdga-elite-series-events/)).
 
-<center><img src="https://github.com/samtauke/samtauke.github.io/blob/main/images/lvc_chart.png?raw=true"/></center
+<center><img src="https://github.com/samtauke/samtauke.github.io/blob/main/images/lvc_chart.png?raw=true"/></<center>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
