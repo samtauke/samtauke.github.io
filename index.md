@@ -6,7 +6,7 @@ My implementation of a logistic regression model to predict winners at professio
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/samtauke/pdga_predictions_ml)
 
-**Las Vegas Challenge: First Article and Model Overview:** The article is the first in the series.  It introduces the basics of the model and makes predictions for the Las Vegas Challenge.  ([GitHub](https://discgolf.ultiworld.com/2021/02/24/introducing-a-model-to-predict-top-finishers-at-pdga-elite-series-events/)).
+**Las Vegas Challenge: First Article and Model Overview:** The article is the first in the series.  It introduces the basics of the model and makes predictions for the Las Vegas Challenge.  ([Ultiworld - Las Vegas Challenge](https://discgolf.ultiworld.com/2021/02/24/introducing-a-model-to-predict-top-finishers-at-pdga-elite-series-events/)).
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
