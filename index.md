@@ -1,18 +1,13 @@
 # Portfolio
 ---
-## Logistic Regression
-
-### CS224n: Natural Language Processing with Deep Learning
+## Predicting Winners at Professional Disc Golf Tournaments
 
 My implementation of a logistic regression model to predict winners at professional disc golf events.  Includes code for data scraping, build, and analysis.
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/CS224n-NLP-Solutions/tree/master/assignments/)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/samtauke/pdga_predictions_ml)
 
-**Neural Machine Translation:** An NMT system which translates texts from Spanish to English using a Bidirectional LSTM encoder for the source sentence and a Unidirectional LSTM Decoder with multiplicative attention for the target sentence ([GitHub](https://github.com/chriskhanhtran/CS224n-NLP-Solutions/tree/master/assignments/)).
+**Las Vegas Challenge: First Article and Model Overview:** The article is the first in the series.  It introduces the basics of the model and makes predictions for the Las Vegas Challenge.  ([GitHub](https://discgolf.ultiworld.com/2021/02/24/introducing-a-model-to-predict-top-finishers-at-pdga-elite-series-events/)).
 
-**Dependency Parsing:** A Neural Transition-Based Dependency Parsing system with one-layer MLP ([GitHub](https://github.com/chriskhanhtran/CS224n-NLP-Assignments/tree/master/assignments/a3)).
-
-<center><img src="images/nlp.png"/></center>
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
