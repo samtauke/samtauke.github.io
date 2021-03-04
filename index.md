@@ -2,7 +2,7 @@
 ---
 ## Predicting Winners at Professional Disc Golf Tournaments
 
-My implementation of a logistic regression model to predict winners at professional disc golf events.  Includes code for data scraping, build, and analysis.
+My implementation of a logistic regression model to predict winners at professional disc golf events.  Includes code for data scraping, build, and analysis in a combination of Python and R.
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/samtauke/pdga_predictions_ml)
 
@@ -11,6 +11,10 @@ My implementation of a logistic regression model to predict winners at professio
 <center><img src="https://github.com/samtauke/samtauke.github.io/blob/main/images/lvc_chart.png?raw=true"/></center>
 
 ---
+## New York Academy of Sciences Data Challenge
+
+My entry into the 2020 NYAS data science challenge, which was chosen as one of five finalists for the competition.  This multivariate linear model, implemented in R, predicts crop assessment scores as a function of a number of a number of input factors.  
+
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
