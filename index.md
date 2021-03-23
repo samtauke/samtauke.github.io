@@ -15,8 +15,9 @@ My implementation of a logistic regression model to predict winners at professio
 
 My entry into the 2020 NYAS data science challenge, which was chosen as one of five finalists for the competition.  This multivariate linear model, implemented in R, predicts crop assessment scores as a function of a number of a number of input factors.  
 
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+## Analysis of Bitcoin Prices Using Distributed Computing Cluster
+
+<img "https://github.com/samtauke/samtauke.github.io/blob/main/images/btc_dag.png?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
