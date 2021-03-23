@@ -15,8 +15,12 @@ My implementation of a logistic regression model to predict winners at professio
 
 My entry into the 2020 NYAS data science challenge, which was chosen as one of five finalists for the competition.  This multivariate linear model, implemented in R, predicts crop assessment scores as a function of a number of a number of input factors.  
 
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+## Do Bitcoin Users Change their Behavior in Price Bubbles?
+
+An analysis of the speed of BTC transactions from 2012 to 2018.  We use the distributed computing resources at the UW-Madison Center for High Throughput Computing to measure the correlations between BTC price and volume of transactions using ledger data from the first 500,000 blocks.  We find evidence for returns chasing in the BTC market, especially during the rapidly increasing price environment of 2017. 
+
+
+<center><img src="https://github.com/samtauke/samtauke.github.io/blob/main/images/btc_dag.png?raw=true"/></center>
 
 ---
 [Project 3 Title](http://example.com/)
