@@ -35,17 +35,6 @@ In this paper we use time series data from the the 100 largest cities in the US 
 <center><img src="https://github.com/samtauke/samtauke.github.io/blob/main/images/covid_cases.png?raw=true"/></center>
 ---
 
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
-
 
 
 ---
