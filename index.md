@@ -32,7 +32,7 @@ An analysis of the speed of BTC transactions from 2012 to 2018.  We use the dist
 
 In this paper we use time series data from the the 100 largest cities in the US to study the relationship between weather and the spread of COVID-19.  In agreement with the existing literature, we find a statistically significant inverse relationship between temperature and the rate of spread of COVID-19.  Further, we find that the density of small particulate matter  in the air is directly related to the spread of COVID-19.  This paper expands of the extant literature of the time by considering a full geographic cross section of US cities as well as by using data covering a longer period than had previously been available.
 
-<center><img src="https://github.com/samtauke/samtauke.github.io/blob/main/images/btc_dag.png?raw=true"/></center>
+<center><img src="https://github.com/samtauke/samtauke.github.io/blob/main/images/covid_cases.png?raw=true"/></center>
 ---
 
 ### Category Name 2
