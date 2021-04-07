@@ -2,7 +2,7 @@
 ---
 ## Predicting Winners at Professional Disc Golf Tournaments
 
-Implementation of a model in R and Python to predict winners at professional disc golf events.  Includes code for data scraping, build, and analysis.  Throughout the 2021 professional season  I am writing a series of articles for [Ultiworld Disc Golf](https://discgolf.ultiworld.com/author/stauke/).
+Development and testing of a model in R and Python to predict winners at professional disc golf events.  Includes code for data scraping, build, and analysis.  Throughout the 2021 professional season  I am writing a series of articles for [Ultiworld Disc Golf](https://discgolf.ultiworld.com/author/stauke/).
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/samtauke/pdga_predictions_ml)
 
@@ -20,7 +20,7 @@ My entry into the 2020 NYAS data science challenge, which was chosen as one of f
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/samtauke/samtauke.github.io/blob/main/homeless_projects/btc_price.pdf)
 
-An analysis of the speed of BTC transactions from 2012 to 2018.  We use the distributed computing resources at the UW-Madison Center for High Throughput Computing to measure the correlations between BTC price and volume of transactions using ledger data from the first 500,000 blocks.  We find evidence for returns chasing in the BTC market, especially during the rapidly increasing price environment of 2017. 
+An analysis of the speed of BTC transactions from 2012 to 2018.  We use the distributed computing resources at the UW-Madison Center for High Throughput Computing to implement a MapReduce framework to measure the correlations between BTC price and volume of transactions using ledger data from the first 500,000 blocks.  We find evidence for returns chasing in the BTC market, especially during the rapidly increasing price environment of 2017.  
 
 
 <center><img src="https://github.com/samtauke/samtauke.github.io/blob/main/images/btc_dag.png?raw=true"/></center>
