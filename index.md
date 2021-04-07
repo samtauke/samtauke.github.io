@@ -24,6 +24,9 @@ An analysis of the speed of BTC transactions from 2012 to 2018.  We use the dist
 
 My entry into the 2020 NYAS data science challenge, which was chosen as one of five finalists for the competition.  This multivariate linear model, implemented in R, predicts crop assessment scores as a function of a number of a number of input factors.  
 
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/samtauke/linear_regression_example)
+
+
 <center><img src="https://github.com/samtauke/samtauke.github.io/blob/main/images/pepsico_chart.png?raw=true"/></center>
 
 ---
