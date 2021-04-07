@@ -2,7 +2,7 @@
 ---
 ## Predicting Winners at Professional Disc Golf Tournaments
 
-My implementation of a logistic regression model to predict winners at professional disc golf events.  Includes code for data scraping, build, and analysis in a combination of Python and R.
+Implementation of a model in R and Python to predict winners at professional disc golf events.  Includes code for data scraping, build, and analysis.  Throughout the 2021 professional season  I am writing a series of articles for ([Ultiworld Disc Golf](https://discgolf.ultiworld.com/author/stauke/)).
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/samtauke/pdga_predictions_ml)
 
