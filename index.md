@@ -32,7 +32,7 @@ My entry into the 2020 NYAS data science challenge, which was chosen as one of f
 ---
 ## How Does Weather Impact the Spread of COVID-19?
 
-In this paper we use time series data from the the 100 largest cities in the US to study the relationship between weather and the spread of COVID-19.  In agreement with the existing literature, we find a statistically significant inverse relationship between temperature and the rate of spread of COVID-19.  Further, we find that the density of small particulate matter  in the air is directly related to the spread of COVID-19.  This paper expands of the extant literature of the time by considering a full geographic cross section of US cities as well as by using data covering a longer period than had previously been available.
+In this paper we use time series data from the the 100 largest cities in the US to study the relationship between weather and the spread of COVID-19.  In agreement with the existing literature, we find a statistically significant inverse relationship between temperature and the rate of spread of COVID-19.  Further, we find that the density of small particulate matter  in the air is directly related to the spread of COVID-19.  This paper expands on the extant literature by considering a full geographic cross section of US cities as well as by using data covering a longer period than had previously been available.
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/samtauke/samtauke.github.io/blob/main/homeless_projects/covid_weather_project.pdf)
 
